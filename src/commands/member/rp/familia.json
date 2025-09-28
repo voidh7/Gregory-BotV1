@@ -1,0 +1,35 @@
+{
+  "120363420408804247@g.us": {
+    "553184634849": {
+      "estadoCivil": "solteiro(a)",
+      "conjuge": "559299071720",
+      "filhos": [
+        "5515991851305",
+        "553599434139"
+      ],
+      "pais": []
+    },
+    "559299071720": {
+      "estadoCivil": "solteiro(a)",
+      "conjuge": "553184634849",
+      "filhos": [],
+      "pais": []
+    },
+    "5515991851305": {
+      "estadoCivil": "solteiro(a)",
+      "conjuge": null,
+      "filhos": [],
+      "pais": [
+        "553184634849"
+      ]
+    },
+    "553599434139": {
+      "estadoCivil": "solteiro(a)",
+      "conjuge": null,
+      "filhos": [],
+      "pais": [
+        "553184634849"
+      ]
+    }
+  }
+}

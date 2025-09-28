@@ -1,0 +1,145 @@
+{
+  "120363420408804247@g.us": {
+    "usuarios": {
+      "553184634849": {
+        "gold": 390,
+        "lastDaily": "2025-09-16",
+        "minerarHoje": 0,
+        "roubosHoje": 0,
+        "roubados": [],
+        "ganhouDaily": false,
+        "cassinoHoje": 5,
+        "itens": {
+          "escudo": 1,
+          "pocao": 1,
+          "dobrarChance": 1
+        }
+      },
+      "553599434139": {
+        "gold": 520,
+        "lastDaily": "2025-09-17",
+        "minerarHoje": 3,
+        "roubosHoje": 0,
+        "roubados": [],
+        "ganhouDaily": true,
+        "cassinoHoje": 5
+      },
+      "558481130087": {
+        "gold": 100,
+        "lastDaily": null,
+        "minerarHoje": 0,
+        "roubosHoje": 0,
+        "roubados": [],
+        "ganhouDaily": false
+      },
+      "559299071720": {
+        "gold": 100,
+        "lastDaily": null,
+        "minerarHoje": 0,
+        "roubosHoje": 0,
+        "roubados": [],
+        "ganhouDaily": false
+      },
+      "558881091483": {
+        "gold": 0,
+        "lastDaily": "2025-09-17",
+        "minerarHoje": 3,
+        "roubosHoje": 1,
+        "roubados": [
+          "553599434139"
+        ],
+        "ganhouDaily": true,
+        "cassinoHoje": 5
+      },
+      "556384608369": {
+        "gold": 60,
+        "lastDaily": "2025-09-09",
+        "minerarHoje": 1,
+        "roubosHoje": 0,
+        "roubados": [],
+        "ganhouDaily": true
+      },
+      "553193443892": {
+        "gold": 20,
+        "lastDaily": null,
+        "minerarHoje": 0,
+        "roubosHoje": 0,
+        "roubados": [],
+        "ganhouDaily": false
+      },
+      "5511911820886": {
+        "gold": 410,
+        "lastDaily": "2025-09-17",
+        "minerarHoje": 3,
+        "roubosHoje": 2,
+        "roubados": [
+          "558881080298",
+          "553599434139"
+        ],
+        "ganhouDaily": true,
+        "cassinoHoje": 5
+      },
+      "553183935135": {
+        "gold": 0,
+        "lastDaily": null,
+        "minerarHoje": 0,
+        "roubosHoje": 0,
+        "roubados": [],
+        "ganhouDaily": false
+      },
+      "558881080298": {
+        "gold": 570,
+        "lastDaily": "2025-09-09",
+        "minerarHoje": 3,
+        "roubosHoje": 1,
+        "roubados": [
+          "5511911820886"
+        ],
+        "ganhouDaily": true,
+        "cassinoHoje": 5,
+        "itens": {
+          "escudo": 1
+        }
+      },
+      "558587787727": {
+        "gold": 60,
+        "lastDaily": "2025-09-11",
+        "minerarHoje": 3,
+        "roubosHoje": 1,
+        "roubados": [
+          "553184634849"
+        ],
+        "ganhouDaily": true,
+        "cassinoHoje": 5
+      },
+      "⁨₊˚ʚ 𝐒𝐰𝐞𝐞𝐭𝐢𝐞 ɞ˚₊⁩": {
+        "gold": 80,
+        "lastDaily": null,
+        "minerarHoje": 0,
+        "roubosHoje": 0,
+        "roubados": [],
+        "ganhouDaily": false
+      }
+    }
+  },
+  "120363419960190590@g.us": {
+    "usuarios": {
+      "553184634849": {
+        "gold": 100,
+        "lastDaily": "2025-09-10",
+        "minerarHoje": 1,
+        "roubosHoje": 0,
+        "roubados": [],
+        "ganhouDaily": true
+      },
+      "553183935135": {
+        "gold": 40,
+        "lastDaily": "2025-09-09",
+        "minerarHoje": 1,
+        "roubosHoje": 0,
+        "roubados": [],
+        "ganhouDaily": true
+      }
+    }
+  }
+}
