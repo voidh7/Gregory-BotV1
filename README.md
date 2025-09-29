@@ -30,14 +30,13 @@ Escolha uma pasta para colocar os arquivos do bot (ex.: /sdcard):
 
 
 
-Bash```
+```Bash
 cd /sdcard
 git clone https://github.com/voidh7/Gregory-BotV1/
 cd takeshi-bot
 chmod -R 755 ./*
 npm start
 ```
-
 
 Digite o número do WhatsApp, aguarde o código de pareamento e configure src/config.js:
 
