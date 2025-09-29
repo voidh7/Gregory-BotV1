@@ -45,7 +45,5 @@ Digite o número do WhatsApp, aguarde o código de pareamento e configure src/co
 
 
 ## ajude-nos 
-<p>
-😎 estamos disposibizando o bot 100% de graça, a única coisa que peço e que me siga no github 
-<p>
 
+😎 estamos disposibizando o bot 100% de graça, a única coisa que peço e que me siga no github 
