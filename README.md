@@ -41,7 +41,7 @@ npm start
 
 Digite o número do WhatsApp, aguarde o código de pareamento e configure src/config.js:
 
-<main>
+</main>
 
 <footer>
 ## ajude-nos 
@@ -49,4 +49,4 @@ Digite o número do WhatsApp, aguarde o código de pareamento e configure src/co
 😎 estamos disposibizando o bot 100% de graça, a única coisa que peço e que me siga no github 
 <p>
 
-<footer>
+<footer> 
