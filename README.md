@@ -17,7 +17,7 @@ Baixe o Termux:
 
 Instale dependências:
 
-<code>
+
 ```bash
 pkg upgrade -y && pkg update -y
 pkg install git -y
@@ -25,12 +25,11 @@ pkg install nodejs-lts -y
 pkg install ffmpeg -y
 termux-setup-storage 
 ```
-<code>
 
 Escolha uma pasta para colocar os arquivos do bot (ex.: /sdcard):
 
 
-<code>
+
 Bash```
 cd /sdcard
 git clone https://github.com/voidh7/Gregory-BotV1/
@@ -38,7 +37,7 @@ cd takeshi-bot
 chmod -R 755 ./*
 npm start
 ```
-<code> 
+
 
 Digite o número do WhatsApp, aguarde o código de pareamento e configure src/config.js:
 
