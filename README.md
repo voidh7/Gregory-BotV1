@@ -27,3 +27,6 @@ chmod -R 755 ./*
 npm start
 ```
 Digite o número do WhatsApp, aguarde o código de pareamento e configure src/config.js:
+
+## ajude-nos 
+😎 estamos disposibizando o bot 100% de graça, a única coisa que peço e que me siga no github 
